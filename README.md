@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @souzajz
+- 👋 Hi, I’m souzajz
 
 <!---
 souzajz/souzajz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
